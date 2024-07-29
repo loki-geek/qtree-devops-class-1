@@ -1,0 +1,5 @@
+This is DevOps course.
+1. branching
+2. pushing
+3. merging
+4. cloning
